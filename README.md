@@ -1,7 +1,10 @@
 # stayup24h
 
 ## Tech Stack
-<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+![Python](https://img.shields.io/badge/Python-3776AB?&logo=Python&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 
 
 ![stayup24h's GitHub stats](https://github-readme-stats.vercel.app/api?username=stayup24h&show_icons=true&theme=radical)
