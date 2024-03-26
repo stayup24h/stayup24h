@@ -9,6 +9,8 @@
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=stayup24h)](https://solved.ac/stayup24h)
+
 
 ![stayup24h's GitHub stats](https://github-readme-stats.vercel.app/api?username=stayup24h&show_icons=true&theme=radical)
 
