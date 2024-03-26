@@ -1,7 +1,10 @@
 # stayup24h
 
+홍익대학교 캠퍼스 자율전공
+
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?&logo=Python&logoColor=white)
+![C](https://img.shields.io/badge/c)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
