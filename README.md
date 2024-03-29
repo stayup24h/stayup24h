@@ -16,3 +16,4 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=stayup24h)](https://solved.ac/stayup24h)
 
 ![stayup24h's GitHub stats](https://github-readme-stats.vercel.app/api?username=stayup24h&show_icons=true&theme=radical)
+<a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stayup24h&layout=compact&theme=nord&hide_border=true" /></a> 
