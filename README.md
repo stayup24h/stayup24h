@@ -17,4 +17,4 @@
 
 ![stayup24h's GitHub stats](https://github-readme-stats.vercel.app/api?username=stayup24h&show_icons=true&theme=radical)
 
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=stayup24h&layout=compact&theme=nord&hide_border=true")
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=stayup24h&hide=ShaderLab,HLSL&layout=compact&theme=nord&hide_border=true")
