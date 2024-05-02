@@ -9,9 +9,12 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
 
 ### Tool
+![Git](https://img.shields.io/badge/git-F05033?style=flat&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/github-000000?style=flat&logo=github&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-F3F3F3?style=flat&logo=notion&logoColor=black)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
-
-
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=stayup24h)](https://solved.ac/stayup24h)
 
