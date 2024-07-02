@@ -2,6 +2,9 @@
 
 홍익대학교 캠퍼스 자율전공
 
+### blog
+[![Velog](https://img.shields.io/badge/Velog-1EBC8F?style=flat&logo=velog&logoColor=white)](https://velog.io/@stayup24h)
+
 ## Tech Stack
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?&logo=Python&logoColor=white)
